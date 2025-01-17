@@ -16,8 +16,8 @@ The website features four fully responsive pages:
 
 ## Technologies Used
 
-    * HTML
-    * CSS
-    * Bootstrap)
-    * Visual Studio Code
-    * GitHub
+* HTML
+* CSS
+* Bootstrap
+* Visual Studio Code
+* GitHub
