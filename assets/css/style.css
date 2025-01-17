@@ -28,7 +28,7 @@
 
 /*Button*/
 .primary-cta {
-    background-color: #6156F5;
+    background-color: #6C61F6;
     color: white;
     border: none;
     border-radius: 8px;
@@ -40,14 +40,13 @@
 
 .secondary-cta {
     background-color: #f5efeb;
-    color: #2F2E42;
-    border: 2px solid #2F2E42;
+    color: #6C61F6;
+    border: 2px solid #6C61F6;
     border-radius: 8px;
     padding: 16px 32px;
     font-size: 16px;
     font-weight: 500;
 }
-
 
 .disabled-button {
     background-color: lightgray;
@@ -84,6 +83,7 @@
     margin-bottom: 4px;
     font-weight: 500;
 }
+
 
 /*Form*/
 .portfolio {
